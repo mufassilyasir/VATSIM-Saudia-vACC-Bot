@@ -1,0 +1,12 @@
+aiohttp==3.7.4
+decorator==4.4.2
+discord.py==1.7.3
+env-file==2020.12.3
+python-dotenv==0.17.1
+wavelink==0.9.9
+APScheduler==3.7.0
+better-profanity==0.7.0
+grapheme==someversionidk
+emoji==someversionidk
+#install chat exporter manually
+
